@@ -106,7 +106,8 @@ export LANG=en_US.UTF-8
 alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
-alias cat='bat'  #alias cat='bat --style=plain'
+alias cat='bat'  
+alias catp='bat --style=plain'
 
 # tmux
 alias tl='tmux ls'
