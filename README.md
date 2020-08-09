@@ -37,7 +37,6 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
-* [License](#license)
 * [Contact](#contact)
 
 <!-- GETTING STARTED -->
@@ -202,13 +201,12 @@ $ mv Vundle.vim ~/.vim/bundle
 
 ... 2020/08/09, 작업 중...
 
+### TODO
+* FZF 사용법 또는 잘 정리된 링크
+* ripgrep 사용법 또는 잘 정리된 링크
+* ctags 사용법 또는 잘 정리된 링크
+* cscope 사용법 또는 잘 정리된 링크
 
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
