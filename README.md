@@ -117,7 +117,7 @@ $ git clone https://github.com/powerline/fonts.git
 $ fonts/install.sh
 ```
 <p>
-  <img src="images/08_Succeed_powerline-fonts.png" alt="powerline_fonts">
+  <img src="images/08_Succeed_powerline-fonts.png" alt="powerline_fonts" width=512>
 </p>
 <br/><br/>  
 
